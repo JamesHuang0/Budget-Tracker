@@ -6,4 +6,4 @@ To update an existing budget tracker application to allow for offline access and
 ## Demo
 [Link](https://peaceful-tor-74218.herokuapp.com/) to the live deployed application.
 
-![Screenshot]()
+![Screenshot](https://github.com/JamesHuang0/Budget-Tracker/blob/main/budgettrackerscreenshot.PNG?raw=true)
